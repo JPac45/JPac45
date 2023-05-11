@@ -7,6 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/joshma/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshma/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Exploring Azure and Networking Concepts](https://github.com/joshma/configure-ad)
   - [Configuring Active Directory within Azure VMs](https://github.com/joshma/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshma/azure-network-protocols)
 
