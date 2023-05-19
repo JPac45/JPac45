@@ -10,7 +10,7 @@
   - [Creating VMs within Azure](https://github.com/JPac45/Creating-VMs-within-Azure)
   - [Exploring Networking Concepts](https://github.com/JPac45/Exploring-Azure-and-Networking-Concepts)
   - [Configuring Active Directory within Azure VMs](https://github.com/joshma/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshma/azure-network-protocols)
+
 
 <h2>🤳Connect with me:</h2>
 
