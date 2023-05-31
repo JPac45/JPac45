@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Creating VMs within Azure](https://github.com/JPac45/Creating-VMs-within-Azure)
   - [Exploring Networking Concepts](https://github.com/JPac45/Exploring-Azure-and-Networking-Concepts)
-  - [Configuring Active Directory within Azure VMs](https://github.com/joshma/configure-ad)
+  - [Active Directory Deployment within Azure VMs](https://github.com/joshma/configure-ad)
 
 
 <h2>🤳Connect with me:</h2>
