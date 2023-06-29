@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JPac45/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/JPac45/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshma/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/JPac45/osTicket-Lifecycle))
 - <b>Microsoft Azure</b>
   - [Creating VMs within Azure](https://github.com/JPac45/Creating-VMs-within-Azure)
   - [Exploring Networking Concepts](https://github.com/JPac45/Exploring-Azure-and-Networking-Concepts)
